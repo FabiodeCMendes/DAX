@@ -50,6 +50,8 @@ Documentação com exemplos práticos de implementação em DAX (Data Analysis E
 >R  
 
 >S  
+[SUM](#idxSUM)  
+[SUMX](#idxSUMX)  
 
 >T  
 
@@ -107,6 +109,31 @@ Documentação com exemplos práticos de implementação em DAX (Data Analysis E
 
 <!-- Link de retorno -->
 [⬆ Voltar](#indice)
+
+
+-----------------------------------------------------
+<!-- Âncora do Destino -->
+## <a id="idxSUM"></a>
+
+### SUM
+
+**[▶  `SUM` e `SUMX`.](./02-Sum_SumX.md#inicio)**
+
+<!-- Link de retorno -->
+[⬆ Voltar](#indice)
+
+-----------------------------------------------------
+<!-- Âncora do Destino -->
+## <a id="idxSUMX"></a>
+
+### SUM
+
+**[▶  `SUM` e `SUMX`.](./02-Sum_SumX.md#inicio)**
+
+<!-- Link de retorno -->
+[⬆ Voltar](#indice)
+
+
 
 
 
