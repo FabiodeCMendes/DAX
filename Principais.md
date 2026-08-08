@@ -4,7 +4,7 @@ As principais funções da linguagem **DAX (Data Analysis Expressions)** no Powe
 
 ### Text (Texto)
 Funções utilizadas para manipular cadeias de caracteres (strings), limpar dados textuais ou concatenar colunas:
-* [`CONCATENATE`](https://learn.microsoft.com/pt-br/dax): Une duas sequências de texto em uma única string.
+* [`CONCATENATE`]([https://learn.microsoft.com/pt-br/dax](https://learn.microsoft.com/pt-br/dax/concatenate-function-dax)): Une duas sequências de texto em uma única string.
 * [`CONCATENATEX`](https://learn.microsoft.com/pt-br/dax): Avalia uma expressão para cada linha de uma tabela e concatena os resultados.
 * [`FORMAT`](https://learn.microsoft.com/pt-br/dax): Converte um valor em texto usando um formato de exibição especificado.
 * [`LEFT`](https://learn.microsoft.com/pt-br/dax) / [`RIGHT`](https://learn.microsoft.com/pt-br/dax) / [`MID`](https://learn.microsoft.com/pt-br/dax): Extraem partes de um texto com base em posições.
