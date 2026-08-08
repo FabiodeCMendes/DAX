@@ -3,8 +3,7 @@
 <a href=""><img src="imgs/dax.png" width="30%" height="30%" alt="Power BI - DAX"></a>
 
 
-principais :Text, Aggregate, MIN, ,MAX, Date, Filter, Related, Counting, ALL, Calendar
-
+[`▶ Principais Funções:`](https://github.com/FabiodeCMendes/DAX/blob/main/Principais.md)
 
 
 
