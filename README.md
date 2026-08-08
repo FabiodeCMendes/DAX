@@ -2,6 +2,12 @@
 
 <a href=""><img src="imgs/dax.png" width="30%" height="30%" alt="Power BI - DAX"></a>
 
+
+principais :Text, Aggregate, MIN, ,MAX, Date, Filter, Related, Counting, ALL, Calendar
+
+
+
+
 # DAX — Exemplos Práticos
 
 Documentação com exemplos práticos de implementação em DAX (Data Analysis Expressions), 
