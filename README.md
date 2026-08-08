@@ -1,4 +1,7 @@
 ## <a id="indice"></a>
+
+<a href=""><img src="imgs/dax.png" width="30%" height="30%" alt="Power BI - DAX"></a>
+
 # DAX — Exemplos Práticos
 
 Documentação com exemplos práticos de implementação em DAX (Data Analysis Expressions), 
